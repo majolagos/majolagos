@@ -1,4 +1,8 @@
-### Hola! 👋
+### Hola! soy Majo 👋
+
+<p>En este momento me estoy especializando en Front-End</p>
+<p>Modo estudio, aprendiendo constantemente...</p>
+<img src="pacman.gif" width="200px">
 
 <!--
 **majolagos/majolagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
