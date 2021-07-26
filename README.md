@@ -6,16 +6,6 @@
 - 	✉️ [contáctame](mailto:mlagos.r90@gmail.com)
 
 
-------------
-Aprendiendo constantemente... <img src="https://github.com/majolagos/majolagos/blob/main/pacman.gif" width="100px"> 
+Aprendiendo constantemente...<br>
+<img src="https://github.com/majolagos/majolagos/blob/main/pacman.gif" width="100px"> 
 
-
-
-```flow
-st=>start: Majo
-op=>operation: Front-End
-cond=>condition: ¿React?
-e=>end: Especializandome en React
-st->op->cond
-cond(yes)->e
-```
