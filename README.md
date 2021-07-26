@@ -1,20 +1,21 @@
 ### Hola! soy Majo 👋
 
-<p>En este momento me estoy especializando en Front-End</p>
-<p>Modo estudio, aprendiendo constantemente...</p>
-<img src="pacman.gif" width="200px"> 
+- Soy Front-end egresada de [Laboratoria](https://www.laboratoria.la/ "Laboratoria")
+- Emprendedora en [Cachudito®](https://cachudito.cl/ "Cachudito")
+- Informática y más, puedes ver más sobre mi en [![](https://img.shields.io/static/v1?label=&message=Linkedin&color=blue)](http://https://www.linkedin.com/in/majolagos "![](https://img.shields.io/static/v1?label=mira mi&message=Linkedin&color=blue)")
+- 	✉️ [contáctame](mailto:mlagos.r90@gmail.com)
 
-<!--
-**majolagos/majolagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+------------
+Aprendiendo constantemente... <img src="https://github.com/majolagos/majolagos/blob/main/pacman.gif" width="100px"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+```flow
+st=>start: Majo
+op=>operation: Front-End
+cond=>condition: ¿React?
+e=>end: Especializandome en React
+st->op->cond
+cond(yes)->e
+```
